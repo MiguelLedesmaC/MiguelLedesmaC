@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>  
 </p>
 
-- 📗 Holaa, soy desarrollador front-end un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
+- 📗 Holaa, soy desarrollador front-end y un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
 
 - 🌱 Actualmente estoy aprendiendo **JAVA y React**
 
