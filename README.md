@@ -1,6 +1,22 @@
 <h1 align="center">Hola!!<img src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" alt="html5" width="48" height="48"/>, Soy Miguel 👨‍💻</h1>
 <h3 align="center">Un apasionado del Desarrollo Front-end</h3>
 
+
+
+- 📗 Holaa, soy desarrollador front-end y un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
+
+- 💬 Puedes preguntarme sobre, HTML, CSS, Javascript y React.
+
+- 🌱 Actualmente estoy aprendiendo **JAVA y React**
+
+- 💼 Conecta conmigo a traves de mi Linkedin: <span align="left-top">
+<a href="https://linkedin.com/in/miguel-ledesma-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ledesma-campos" height="20" width="30" /></a>
+</span>
+
+- 📫 Puedes contactar conmigo a través de Gmail: <span align="left-top">
+<a href="mailto:angelmiguellc35@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="miguel-ledesma-campos" height="20" width="20" /></a>
+</span>
+
 <h3 align="left">Lenguajes y herramientas que conozco:</h3>
 <p align="left"> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
@@ -40,20 +56,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>  
 </p>
-
-- 📗 Holaa, soy desarrollador front-end y un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
-
-- 💬 Puedes preguntarme sobre, HTML, CSS, Javascript y React.
-
-- 🌱 Actualmente estoy aprendiendo **JAVA y React**
-
-- 💼 Conecta conmigo a traves de mi Linkedin: <span align="left-top">
-<a href="https://linkedin.com/in/miguel-ledesma-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ledesma-campos" height="20" width="30" /></a>
-</span>
-
-- 📫 Puedes contactar conmigo a través de Gmail: <span align="left-top">
-<a href="mailto:angelmiguellc35@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="miguel-ledesma-campos" height="20" width="20" /></a>
-</span>
  
 
 
