@@ -40,13 +40,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>  
 </p>
 
+- 📗 Holaa, soy desarrollador front-end un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
 
 - 🌱 Actualmente estoy aprendiendo **JAVA y React**
 
-- 📫 Puedes contactar conmigo a través de mi email: **angelmiguellc35@gmail.com**
-
-<h3 align="left">Conecta conmigo en Linkedin:</h3>
-<p align="left">
+- 💼 Conecta conmigo a traves de mi Linkedin: <span align="left">
 <a href="https://linkedin.com/in/miguel-ledesma-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ledesma-campos" height="30" width="40" /></a>
-</p>
+</span>
+
+- 📫 Puedes contactar conmigo a través de Gmail: <span align="left">
+<a href="mailto:angelmiguellc35@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="miguel-ledesma-campos" height="30" width="30" /></a>
+</span>
+ 
+
 
