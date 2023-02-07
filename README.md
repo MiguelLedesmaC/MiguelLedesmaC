@@ -35,8 +35,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>                
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/> </a>     
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="48" height="48"/> </a>
+    <a href="http://www.gimp.org.es/descargar-gimp.html" target="_blank" rel="noreferrer"> 
+    <img src="https://e7.pngegg.com/pngimages/814/658/png-clipart-gimp-graphic-design-editing-logo-gimp-graphic-design.png" alt="photoshop" width="48" height="48"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>  
 </p>
