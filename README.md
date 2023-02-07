@@ -1,4 +1,4 @@
-<h1 align="center">Hola!!👋, Soy Miguel</h1>
+<h1 align="center">Hola!!👋, Soy Miguel 👨‍💻</h1>
 <h3 align="center">Un apasionado del Desarrollo Front-end, de Mallorca</h3>
 
 
