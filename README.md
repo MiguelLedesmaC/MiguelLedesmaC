@@ -21,7 +21,9 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="48" height="48"/> </a>     
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>         
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <a href="https://firebase.google.com/?gclid=CjwKCAiAioifBhAXEiwApzCztmx9VhSEh66GGz985HG9iq28yRw5jGLd6ilZFEfnG9_XN2CUAV9llRoCbJ4QAvD_BwE&gclsrc=aw.ds&hl=es-419" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/480/firebase.png" alt="firebase" width="48" height="48"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>     
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>    
@@ -40,6 +42,8 @@
 </p>
 
 - 📗 Holaa, soy desarrollador front-end y un apasionado de la tecnología y este es mi gitHub, actualmente soy un estudiante que va subiendo aquí lo que va aprendiendo y practicando. Un saludo y gracias por pasar por mi GitHub!! 
+
+- 💬 Puedes preguntarme sobre, HTML, CSS, Javascript y React.
 
 - 🌱 Actualmente estoy aprendiendo **JAVA y React**
 
