@@ -61,7 +61,7 @@
     </a>
     <!--   Spring   -->
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F333113%2Fspring&psig=AOvVaw31FTjA7jnekmMYT_bi85n7&ust=1685626771773000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD02ZrXn_8CFQAAAAAdAAAAABAD" alt="Spring" width="48" height="48"/> 
+        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="Spring" width="48" height="48"/> 
     </a>
     <!--   Firebase   -->
     <a href="https://firebase.google.com/gclid=CjwKCAiAioifBhAXEiwApzCztmx9VhSEh66GGz985HG9iq28yRw5jGLd6ilZFEfnG9_XN2CUAV9llRoCbJ4QAvD_BwE&gclsrc=aw.ds&hl=es-419" target="_blank"          rel="noreferrer">
