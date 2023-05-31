@@ -10,7 +10,7 @@
 - 🌱 Actualmente estoy aprendiendo **JAVA y React**
 
 - 💼 Conecta conmigo a traves de mi Linkedin: <span align="left-top">
-<a href="https://linkedin.com/in/miguel-ledesma-campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ledesma-campos" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/miguel-ledesma-campos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-ledesma-campos" height="20" width="30" /></a>
 </span>
 
 - 📫 Puedes contactar conmigo a través de Gmail: <span align="left-top">
