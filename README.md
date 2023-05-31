@@ -40,8 +40,7 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a> 
    
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
-    <img src="https://blog.kakaocdn.net/dn/1sAn1/btqHxbMczcE/IpKbSUX78cHd47vcMuEJ00/img.png" alt="Spring" width="48" height="48"/> </a> 
+   
     
     <a href="https://firebase.google.com/?gclid=CjwKCAiAioifBhAXEiwApzCztmx9VhSEh66GGz985HG9iq28yRw5jGLd6ilZFEfnG9_XN2CUAV9llRoCbJ4QAvD_BwE&gclsrc=aw.ds&hl=es-419" target="_blank" rel="noreferrer">
      
